@@ -82,12 +82,27 @@ This project is licensed under the YOLO License.
 ---
 
 the result:
-[1]
+[1]:
+
 ![Serum Detection Example](1.jpg)
-[2]
+
+[2]:
+
 ![Serum Detection Example](2.jpg)
-[3]
+
+[3]:
+
 ![Serum Detection Example](3.jpg)
+
+[4]:
+
+![Serum Detection Example](3.jpg)
+
+[5]:
+
+![Serum Detection Example](3.jpg)
+
+
 
 
 
