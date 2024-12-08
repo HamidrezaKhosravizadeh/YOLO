@@ -1,10 +1,7 @@
-![image](https://github.com/user-attachments/assets/b852778f-c645-4f4c-a84b-628cffecb681)
-
-
-Here’s a **README.md** template for your GitHub project on serum count detection:
-
----
-
+<p align="center">
+  <img src="your-image-url-here" alt="Project Logo" width="200"/>
+  <h1>Serum Count Detection with Python 🧪</h1>
+</p>
 # Serum Count Detection with Python 🧪
 
 This project demonstrates how to use machine learning to detect the number of serum vials in images. It leverages **Roboflow**, **Google Colab**, **VSCode**, and **Python** to build an object detection model.
