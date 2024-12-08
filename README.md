@@ -64,7 +64,21 @@ serum-count-detection/
 ├── best.pt                # Trained model file
 └── README.md                # Project documentation
 ```
-
+### Install 
+```
+│
+├──tensorflow==2.10.0
+├──numpy==1.23.4
+├──opencv-python==4.6.0.66
+├──pillow==9.2.0
+├──matplotlib==3.6.1
+├──roboflow==1.0.0
+├──flask==2.2.2
+├──requests==2.28.1
+├──pyyaml==6.0
+├──scikit-learn==1.1.2
+└── ultralytics==8.0.0
+```
 ### Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
