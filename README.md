@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="your-image-url-here" alt="Project Logo" width="200"/>
-  <h1>Serum Count Detection with Python 🧪</h1>
-</p>
+
 # Serum Count Detection with Python 🧪
 
 This project demonstrates how to use machine learning to detect the number of serum vials in images. It leverages **Roboflow**, **Google Colab**, **VSCode**, and **Python** to build an object detection model.
@@ -10,7 +7,7 @@ This project demonstrates how to use machine learning to detect the number of se
 
 In this repository, you will find:
 - A Python script for training and testing the model.
-- A `.h5` file for the trained model.
+- A `.pt` file for the trained model.
 - Instructions on how to use the model for detecting serum vials in images.
 
 ### Tools & Technologies Used
