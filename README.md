@@ -104,11 +104,11 @@ This project is licensed under the YOLO License.
 
 [4]:
 
-![Serum Detection Example](3.jpg)
+![Serum Detection Example](4.jpg)
 
 [5]:
 
-![Serum Detection Example](3.jpg)
+![Serum Detection Example](5.jpg)
 
 
 
