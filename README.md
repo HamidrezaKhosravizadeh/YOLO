@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b852778f-c645-4f4c-a84b-628cffecb681)
+
+
 Here’s a **README.md** template for your GitHub project on serum count detection:
 
 ---
@@ -78,4 +81,17 @@ This project is licensed under the YOLO License.
 
 ---
 
-Let me know if you’d like to add or modify any sections!
+the result:
+[1]
+![Serum Detection Example](1.jpg)
+[2]
+![Serum Detection Example](2.jpg)
+[3]
+![Serum Detection Example](3.jpg)
+
+
+
+
+
+
+
