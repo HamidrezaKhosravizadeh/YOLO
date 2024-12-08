@@ -22,7 +22,6 @@ In this repository, you will find:
 
    ```bash
    git clone https://github.com/HamidrezaKhosravizadeh/YOLO.git
-   cd serum-count-detection
    ```
 
 2. **Install Dependencies:**
